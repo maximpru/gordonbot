@@ -1,0 +1,1 @@
+worker: python dmitrogordonbot.py
